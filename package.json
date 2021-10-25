@@ -9,15 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@types/styled-components": "^5.1.15",
     "components": "^0.1.0",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
     "styled": "^1.0.0",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
+    "@types/classnames": "^2.3.1",
     "@types/react": "17.0.32",
     "babel-plugin-styled-components": "^1.13.3",
     "eslint": "8.1.0",
