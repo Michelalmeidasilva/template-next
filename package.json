@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/styled-components": "^5.1.15",
+    "components": "^0.1.0",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled": "^1.0.0",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@types/react": "17.0.32",
+    "babel-plugin-styled-components": "^1.13.3",
     "eslint": "8.1.0",
     "eslint-config-next": "11.1.2",
     "typescript": "4.4.4"
